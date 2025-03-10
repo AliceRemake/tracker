@@ -24,6 +24,9 @@ jobs:
       - name: Update trackers_all.txt
         shell: pwsh
         run: |
+          curl https://cf.trackerslist.com/all.txt >> trackers_all.txt
+          curl https://trackerslist.com/all.txt >> trackers_all.txt
+          curl https://newtrackon.com/api/all >> trackers_all.txt
           curl https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt >> trackers_all.txt
           curl https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt >> trackers_all.txt
           curl https://raw.githubusercontent.com/chenjia404/CnTrackersList/master/all.txt >> trackers_all.txt
