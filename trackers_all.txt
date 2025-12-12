@@ -89,6 +89,7 @@ http://123.245.62.68:6969/announce
 http://123.245.62.69:6969/announce
 http://123.245.62.72:6969/announce
 http://123.245.62.75:6969/announce
+http://123.245.62.79:6969/announce
 http://123.245.62.7:6969/announce
 http://123.245.62.84:6969/announce
 http://123.245.62.88:6969/announce
@@ -2650,6 +2651,7 @@ udp://tracker.open-data.network:8888/announce
 udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
+udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.pcfreetime.com:6969/announce
 udp://tracker.picotorrent.one:6969/announce
