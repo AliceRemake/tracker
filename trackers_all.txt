@@ -1801,6 +1801,7 @@ udp://194.62.248.73:15480/announce
 udp://194.87.68.142:6969/announce
 udp://195.123.209.37:1337/announce
 udp://195.123.209.40:80/announce
+udp://195.234.62.166:6969/announce
 udp://198.100.149.66:6969/announce
 udp://1c.premierzal.ru:6969/announce
 udp://200.111.152.54:1337/announce
