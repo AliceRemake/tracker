@@ -2062,6 +2062,7 @@ udp://79.117.28.48:1234/announce
 udp://79.117.5.107:1234/announce
 udp://79.117.63.250:1234/announce
 udp://7p41a8967.wicp.vip:22222/announce
+udp://80.71.224.126:6969/announce
 udp://82.156.24.219:6969/announce
 udp://82.65.115.10:6969/announce
 udp://82.67.44.197:9999/announce
@@ -2387,6 +2388,7 @@ udp://mts.tvbit.co:6969/announce
 udp://nagios.tks.sumy.ua:80/announce
 udp://netmap.top:6969/announce
 udp://new-line.net:6969/announce
+udp://node01.trackerstatus.live:42069/announce
 udp://npge.nprotect.com:6969/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
