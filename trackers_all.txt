@@ -259,6 +259,7 @@ http://187.57.14.62:6969/announce
 http://187.57.229.141:6969/announce
 http://188.165.253.109:1337/announce
 http://189.0.196.51:6969/announce
+http://189.0.78.245:6969/announce
 http://189.0.78.33:6969/announce
 http://189.110.233.96:6969/announce
 http://189.18.127.125:6969/announce
@@ -1755,6 +1756,7 @@ udp://187.57.130.147:6969/announce
 udp://187.57.131.202:6969/announce
 udp://187.57.229.141:6969/announce
 udp://188.165.253.109:1337/announce
+udp://189.0.78.245:6969/announce
 udp://189.0.78.33:6969/announce
 udp://189.18.127.125:6969/announce
 udp://189.18.127.57:6969/announce
@@ -2394,7 +2396,9 @@ udp://mts.tvbit.co:6969/announce
 udp://nagios.tks.sumy.ua:80/announce
 udp://netmap.top:6969/announce
 udp://new-line.net:6969/announce
+udp://node01.torrentonline.cc:42069/announce
 udp://node01.trackerstatus.live:42069/announce
+udp://node02.torrentonline.cc:42069/announce
 udp://npge.nprotect.com:6969/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
