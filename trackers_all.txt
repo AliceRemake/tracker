@@ -183,6 +183,7 @@ http://177.139.47.105:6969/announce
 http://177.139.47.18:6969/announce
 http://177.139.47.236:6969/announce
 http://177.139.47.40:6969/announce
+http://177.139.47.92:6969/announce
 http://177.144.178.170:6969/announce
 http://177.144.178.39:6969/announce
 http://177.172.61.236:6969/announce
@@ -1027,6 +1028,7 @@ http://tracker.etree.org:6969/announce
 http://tracker.ex.ua/announce
 http://tracker.fansub.id/announce
 http://tracker.fdn.fr:6969/announce
+http://tracker.file09.com/announce
 http://tracker.filemail.com:6969/announce
 http://tracker.files.fm:6969/announce
 http://tracker.filetracker.pl:8089/announce
@@ -1172,6 +1174,7 @@ http://tracker810.xyz:11450/announce
 http://trackers.ibzu.me/announce
 http://trackers.ydns.eu:10036/announce
 http://trackme.theom.nz/announce
+http://trackr.appolon.dev:6969/announce
 http://trun.tom.ru/announce
 http://uatracker.net/announce
 http://unknownsite.de:6969/announce
@@ -1423,6 +1426,7 @@ https://tracker.bittorrent.am/announce
 https://tracker.bjut.jp/announce
 https://tracker.bt-hash.com/announce
 https://tracker.bt4g.com/announce
+https://tracker.bug38.com/announce
 https://tracker.bulao.ren/announce
 https://tracker.calculate.ru:6969/announce
 https://tracker.cangku.moe/announce
@@ -1708,6 +1712,7 @@ udp://177.139.47.105:6969/announce
 udp://177.139.47.18:6969/announce
 udp://177.139.47.236:6969/announce
 udp://177.139.47.40:6969/announce
+udp://177.139.47.92:6969/announce
 udp://177.144.178.170:6969/announce
 udp://177.144.178.39:6969/announce
 udp://177.172.61.249:6969/announce
