@@ -268,6 +268,7 @@ http://187.11.73.178:6969/announce
 http://187.11.73.20:6969/announce
 http://187.11.73.213:6969/announce
 http://187.11.74.138:6969/announce
+http://187.11.75.160:6969/announce
 http://187.11.75.17:6969/announce
 http://187.11.75.196:6969/announce
 http://187.11.75.60:6969/announce
@@ -1156,6 +1157,7 @@ http://tracker.tricitytorrents.com:2710/announce
 http://tracker.tritan.gg:8080/announce
 http://tracker.trojangogogo.site:8080/announce
 http://tracker.tvunderground.org.ru:3218/announce
+http://tracker.umunu.ru:6969/announce
 http://tracker.valete.tf:9999/announce
 http://tracker.vanitycore.co:6969/announce
 http://tracker.vraphim.com:6969/announce
