@@ -357,6 +357,7 @@ http://200.161.254.20:6969/announce
 http://200.168.116.107:6969/announce
 http://200.168.116.200:6969/announce
 http://200.168.116.61:6969/announce
+http://200.168.117.124:6969/announce
 http://200.168.117.55:6969/announce
 http://200.170.109.125:6969/announce
 http://200.170.109.148:6969/announce
@@ -1913,6 +1914,7 @@ udp://195.123.209.40:80/announce
 udp://195.234.62.166:6969/announce
 udp://198.100.149.66:6969/announce
 udp://1c.premierzal.ru:6969/announce
+udp://200.111.152.53:1337/announce
 udp://200.111.152.54:1337/announce
 udp://200.148.11.147:6969/announce
 udp://200.148.11.156:6969/announce
@@ -1923,6 +1925,7 @@ udp://200.161.254.20:6969/announce
 udp://200.168.116.107:6969/announce
 udp://200.168.116.200:6969/announce
 udp://200.168.116.61:6969/announce
+udp://200.168.117.124:6969/announce
 udp://200.168.117.55:6969/announce
 udp://200.170.109.125:6969/announce
 udp://200.170.109.148:6969/announce
