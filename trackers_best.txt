@@ -1,9 +1,7 @@
 http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
-http://1337.abcvg.info/announce
 http://193.31.26.113:6969/announce
 http://216.144.239.90:6969/announce
-http://93.88.129.16/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
@@ -21,11 +19,11 @@ http://open.stealth.si/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
 http://retracker.joxnet.ru/announce
-http://retracker.x2k.ru/announce
 http://retracker.xxtor.com/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
 http://thetracker.org/announce
+http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
 http://tr.nyacat.pw/announce
@@ -34,7 +32,6 @@ http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.fansub.id/announce
-http://tracker.huadongblower.xyz:8080/announce
 http://tracker.kmzs123.com/announce
 http://tracker.memelords.xyz/announce
 http://tracker.minglong.org:8080/announce
@@ -58,7 +55,7 @@ http://uatracker.net/announce
 http://www.ansktracker.net/announce
 http://www.wareztorrent.com/announce
 http://www.yqzuji.com/announce
-https://retracker.x2k.ru/announce
+https://bt.beatrice-raws.org/announce
 https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
@@ -72,6 +69,7 @@ https://tracker.iochimari.moe/announce
 https://tracker.jiesen.life:8443/announce
 https://tracker.keepfrds.com/announce
 https://tracker.madtia.cc/announce
+https://tracker.manager.v6.navy/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
@@ -356,6 +354,7 @@ udp://191.255.193.44:6969/announce
 udp://192.95.46.115:6969/announce
 udp://193.148.251.93:6969/announce
 udp://193.177.162.187:6969/announce
+udp://193.187.90.12:6969/announce
 udp://193.233.161.213:6969/announce
 udp://193.37.214.12:6969/announce
 udp://193.42.111.57:9337/announce
@@ -919,6 +918,7 @@ udp://open.8a.is:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.demonii.si:1337/announce
 udp://open.demonii.si:80/announce
+udp://open.demonoid.ch:6969/announce
 udp://open.dstud.io:6969/announce
 udp://open.free-tracker.ga:6969/announce
 udp://open.stealth.si:6969/announce
@@ -939,6 +939,7 @@ udp://pirate.t-1.org:1337/announce
 udp://pow7.com:80/announce
 udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
+udp://public.demonoid.ch:6969/announce
 udp://public.popcorn-tracker.org:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
 udp://pxnet.ru:6969/announce
