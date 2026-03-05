@@ -1360,6 +1360,7 @@ https://gwp2-v19.rinet.ru/announce
 https://gwp2-v19.rinet.ru:80/announce
 https://hcbt.pp.ua/announce
 https://hdpt.xyz/announce
+https://http1.torrust-tracker-demo.com/announce
 https://inferno.demonoid.is/announce
 https://ipv4.rer.lol:2710/announce
 https://ipv6.tracker.m-team.cc/announce
@@ -1609,6 +1610,7 @@ https://tracker.vectahosting.eu:8443/announce
 https://tracker.wsaoa.eu.org/announce
 https://tracker.yarr.pt/announce
 https://tracker.yemekyedim.com/announce
+https://tracker.yggleak.top/announce
 https://tracker.yoshi210.com:6969/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
