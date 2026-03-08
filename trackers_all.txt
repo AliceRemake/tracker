@@ -214,6 +214,7 @@ http://177.172.67.94:6969/announce
 http://177.173.31.33:6969/announce
 http://177.188.141.137:6969/announce
 http://177.188.141.175:6969/announce
+http://177.188.141.28:6969/announce
 http://177.188.141.32:6969/announce
 http://177.215.65.176:6969/announce
 http://177.215.65.40:6969/announce
@@ -942,6 +943,7 @@ http://rotracker.ohys.net/announce
 http://rstracker.ohys.net/announce
 http://rt.optizone.ru/announce
 http://rt.tace.ru/announce
+http://s1124554.ha012.t.mydomain.zone/announce
 http://s926723.ha016.t.mydomain.zone/announce
 http://saltwood.top:6969/announce
 http://secure.pow7.com/announce
@@ -1073,6 +1075,7 @@ http://tracker.encrypted-data.xyz:1337/announce
 http://tracker.enitin.xyz/announce
 http://tracker.etree.org:6969/announce
 http://tracker.ex.ua/announce
+http://tracker.exe.in.th:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.fdn.fr:6969/announce
 http://tracker.file09.com/announce
@@ -1806,6 +1809,7 @@ udp://177.172.67.247:6969/announce
 udp://177.172.67.94:6969/announce
 udp://177.173.31.33:6969/announce
 udp://177.188.141.175:6969/announce
+udp://177.188.141.28:6969/announce
 udp://177.188.141.32:6969/announce
 udp://177.215.65.176:6969/announce
 udp://177.215.65.40:6969/announce
