@@ -1,12 +1,12 @@
-http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
 http://1337.abcvg.info/announce
 http://193.31.26.113:6969/announce
 http://216.144.239.90:6969/announce
-http://54.39.98.124/announce
-http://bt.beatrice-raws.org/announce
+http://93.88.129.16/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
+http://bt02.nnm-club.cc:2710/announce
+http://bt02.nnm-club.info:2710/announce
 http://extracker.dahrkael.net:6969/announce
 http://grifon.info/announce
 http://h4.trakx.nibba.trade/announce
@@ -29,7 +29,6 @@ http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
 http://tr.nyacat.pw/announce
-http://tracker-udp.anirena.com/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
@@ -42,7 +41,6 @@ http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
-http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
@@ -56,7 +54,6 @@ http://uatracker.net/announce
 http://www.ansktracker.net/announce
 http://www.wareztorrent.com/announce
 http://www.yqzuji.com/announce
-https://1337.abcvg.info/announce
 https://bt.beatrice-raws.org/announce
 https://http1.torrust-tracker-demo.com/announce
 https://retracker.x2k.ru/announce
@@ -73,6 +70,7 @@ https://tracker.iochimari.moe/announce
 https://tracker.keepfrds.com/announce
 https://tracker.leaves.red/announce
 https://tracker.madtia.cc/announce
+https://tracker.manager.v6.navy/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
@@ -751,6 +749,13 @@ udp://9.rarbg.com:2810/announce
 udp://9.rarbg.com:2880/announce
 udp://9.rarbg.com:2930/announce
 udp://9.rarbg.com:2940/announce
+udp://9.rarbg.me:2710/announce
+udp://9.rarbg.me:2720/announce
+udp://9.rarbg.me:2770/announce
+udp://9.rarbg.me:2780/announce
+udp://9.rarbg.me:2790/announce
+udp://9.rarbg.me:2930/announce
+udp://9.rarbg.me:2980/announce
 udp://9.rarbg.to:2730/announce
 udp://9.rarbg.to:2740/announce
 udp://9.rarbg.to:2800/announce
@@ -828,6 +833,7 @@ udp://colivioo.com:6969/announce
 udp://commento.getblog.cn:6969/announce
 udp://concen.org:6969/announce
 udp://coppersurfer.tk:6969/announce
+udp://cutiegirl.ru:6969/announce
 udp://cutscloud.duckdns.org:6969/announce
 udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -876,6 +882,7 @@ udp://ipv6.babico.name.tr:8000/announce
 udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
 udp://jeremylee.sh:6969/announce
+udp://joczo.duckdns.org:6969/announce
 udp://johnrosen1.com:6969/announce
 udp://jutone.com:6969/announce
 udp://jvavav.com:6969/announce
@@ -1049,6 +1056,7 @@ udp://tracker.etree.org:6969/announce
 udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.files.fm:6969/announce
+udp://tracker.flashtorrents.org:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.frozen-layer.net:6969/announce
