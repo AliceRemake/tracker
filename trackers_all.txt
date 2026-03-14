@@ -1645,6 +1645,7 @@ https://ttk.pp.ua/announce
 https://ttracker.just-h.party/announce
 https://voxhost.fr/announce
 https://w.wwwww.wtf/announce
+https://wsad.run.place/announce
 https://www.peckservers.com:9000/announce
 https://www.peckservers.com:9443/announce
 https://www.wareztorrent.com/announce
