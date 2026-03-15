@@ -945,6 +945,9 @@ http://rstracker.ohys.net/announce
 http://rt.optizone.ru/announce
 http://rt.tace.ru/announce
 http://s1124554.ha012.t.mydomain.zone/announce
+http://s1130638.ha016.t.mydomain.zone/announce
+http://s1130639.ha009.t.mydomain.zone/announce
+http://s1130642.ha014.t.mydomain.zone/announce
 http://s926723.ha016.t.mydomain.zone/announce
 http://saltwood.top:6969/announce
 http://secure.pow7.com/announce
