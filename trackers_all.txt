@@ -80,6 +80,7 @@ http://123.245.62.112:6969/announce
 http://123.245.62.16:6969/announce
 http://123.245.62.21:6969/announce
 http://123.245.62.37:6969/announce
+http://123.245.62.39:6969/announce
 http://123.245.62.3:6969/announce
 http://123.245.62.41:6969/announce
 http://123.245.62.47:6969/announce
@@ -291,6 +292,7 @@ http://187.56.205.91:6969/announce
 http://187.57.130.109:6969/announce
 http://187.57.130.147:6969/announce
 http://187.57.131.202:6969/announce
+http://187.57.131.78:6969/announce
 http://187.57.132.20:6969/announce
 http://187.57.132.246:6969/announce
 http://187.57.132.65:6969/announce
@@ -1892,6 +1894,7 @@ udp://187.56.205.91:6969/announce
 udp://187.57.130.109:6969/announce
 udp://187.57.130.147:6969/announce
 udp://187.57.131.202:6969/announce
+udp://187.57.131.78:6969/announce
 udp://187.57.132.20:6969/announce
 udp://187.57.132.246:6969/announce
 udp://187.57.132.65:6969/announce
@@ -3004,6 +3007,7 @@ udp://widemus.de:6969/announce
 udp://www.2600.com:6969/announce
 udp://www.eddie4.nl:6969/announce
 udp://www.nartlof.com.br:6969/announce
+udp://www.nartlof.com:6969/announce
 udp://www.peckservers.com:9000/announce
 udp://www.torrent.eu.org:451/announce
 udp://www.tvnihon.com:6969/announce
