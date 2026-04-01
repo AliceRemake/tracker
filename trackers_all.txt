@@ -2884,6 +2884,7 @@ udp://tracker.nartlof.com.br:6969/announce
 udp://tracker.netmap.top:6969/announce
 udp://tracker.nitrix.me:6969/announce
 udp://tracker.novaopcj.eu.org:6969/announce
+udp://tracker.nyaa.vc:6969/announce
 udp://tracker.ocnix.net:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.open-data.network:8888/announce
@@ -2953,6 +2954,7 @@ udp://tracker.vrpnet.org:6969/announce
 udp://tracker.waaa.moe:6969/announce
 udp://tracker.wellknownclub.net:8100/announce
 udp://tracker.wepzone.net:6969/announce
+udp://tracker.wildkat.net:6969/announce
 udp://tracker.x6c.co:6969/announce
 udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.xor.st:6969/announce
