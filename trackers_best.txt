@@ -1,7 +1,9 @@
 http://125.227.79.123/announce
+http://1337.abcvg.info/announce
 http://34.94.213.23/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
+http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
@@ -12,6 +14,7 @@ http://nagios.tks.sumy.ua/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
+http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
@@ -20,13 +23,11 @@ http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
 http://tr.nyacat.pw/announce
-http://tracker-udp.anirena.com/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
-http://tracker.minglong.org:8080/announce
 http://tracker.openzim.org/announce
 http://tracker.tfile.co/announce
 http://tracker.torrentino.com/announce
@@ -39,7 +40,7 @@ http://tracker2.torrentino.com/announce
 http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
-http://uatracker.net/announce
+http://www.bitseduce.com/announce
 http://www.yqzuji.com/announce
 https://1337.abcvg.info/announce
 https://bt.beatrice-raws.org/announce
@@ -257,6 +258,7 @@ udp://185.121.168.244:1337/announce
 udp://185.121.168.244:6969/announce
 udp://185.121.168.96:1337/announce
 udp://185.121.168.96:6969/announce
+udp://185.121.24.141:6969/announce
 udp://185.146.233.150:6969/announce
 udp://185.181.60.155:80/announce
 udp://185.181.60.67:80/announce
@@ -870,7 +872,6 @@ udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
 udp://jeremylee.sh:6969/announce
 udp://joczo.duckdns.org:6969/announce
-udp://johnrosen1.com:6969/announce
 udp://jutone.com:6969/announce
 udp://jvavav.com:6969/announce
 udp://keke.re:6969/announce
@@ -1129,6 +1130,7 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker3.t-1.org:6969/announce
 udp://tracker4.itzmx.com:2710/announce
 udp://trackerb.jonaslsa.com:6969/announce
+udp://trackthis.cyber.pz.it:1337/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 udp://trl-zhuqiy.dgj055.icu:80/announce
 udp://ts.populargamers.co.za:6969/announce
