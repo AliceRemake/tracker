@@ -29,6 +29,7 @@ http://110.187.214.137:6969/announce
 http://110.187.214.29:6969/announce
 http://110.187.214.6:6969/announce
 http://110.187.215.166:6969/announce
+http://113.13.6.40:6969/announce
 http://113.17.152.163:6969/announce
 http://114.55.113.60:6969/announce
 http://116.16.41.96:6969/announce
@@ -3040,6 +3041,7 @@ udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://valakas.rollo.dnsabr.com:2710/announce
 udp://vibe.community:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
+udp://vito-tracker.duckdns.org:6969/announce
 udp://vm3268418.24ssd.had.wf:6969/announce
 udp://vps-dd0a0715.vps.ovh.net:6969/announce
 udp://wambo.club:1337/announce
