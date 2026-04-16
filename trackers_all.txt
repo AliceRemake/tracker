@@ -30,6 +30,7 @@ http://110.187.214.29:6969/announce
 http://110.187.214.6:6969/announce
 http://110.187.215.166:6969/announce
 http://113.13.6.40:6969/announce
+http://113.16.155.116:6969/announce
 http://113.16.155.146:6969/announce
 http://113.17.152.163:6969/announce
 http://114.55.113.60:6969/announce
@@ -1409,6 +1410,7 @@ https://o-unkusrx.cloud.okteto.net/announce
 https://on.springsunday.net/announce
 https://open.acgnxtracker.com/announce
 https://open.acgtracker.com:1096/announce
+https://open.ftorrent.com/announce
 https://open.kickasstracker.com/announce
 https://open.lolicon.eu:7777/announce
 https://open.touki.ru/announce
@@ -2648,6 +2650,7 @@ udp://open.demonii.si:80/announce
 udp://open.demonoid.ch:6969/announce
 udp://open.dstud.io:6969/announce
 udp://open.free-tracker.ga:6969/announce
+udp://open.ftorrent.com:443/announce
 udp://open.publictracker.xyz:6969/announce
 udp://open.stealth.si/announce
 udp://open.stealth.si:6969/announce
