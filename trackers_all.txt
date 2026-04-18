@@ -201,6 +201,7 @@ http://177.139.47.40:6969/announce
 http://177.139.47.92:6969/announce
 http://177.144.178.170:6969/announce
 http://177.144.178.39:6969/announce
+http://177.16.198.58:6969/announce
 http://177.172.61.236:6969/announce
 http://177.172.61.249:6969/announce
 http://177.172.61.33:6969/announce
@@ -613,6 +614,7 @@ http://61.222.178.254:6969/announce
 http://62.182.85.138:666/announce
 http://62.60.157.92:6969/announce
 http://64.112.43.194:6969/announce
+http://64.226.122.118:6969/announce
 http://65.108.2.176:2710/announce
 http://65.130.190.21:9000/announce
 http://65.130.205.148:9000/announce
@@ -1832,6 +1834,7 @@ udp://177.139.47.40:6969/announce
 udp://177.139.47.92:6969/announce
 udp://177.144.178.170:6969/announce
 udp://177.144.178.39:6969/announce
+udp://177.16.198.58:6969/announce
 udp://177.172.61.249:6969/announce
 udp://177.172.61.33:6969/announce
 udp://177.172.62.154:6969/announce
@@ -2756,6 +2759,7 @@ udp://tk1v6.trackerservers.com:8080/announce
 udp://tk2.trackerservers.com:8080/announce
 udp://tk2v6.trackerservers.com:8080/announce
 udp://tk4.leechshield.link:6969/announce
+udp://torrent.bowed.net:8081/announce
 udp://torrent.fedoraproject.org:6969/announce
 udp://torrent.gresille.org:80/announce
 udp://torrent.hificode.in:6969/announce
