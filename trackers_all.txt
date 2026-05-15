@@ -330,6 +330,7 @@ http://189.18.127.125:6969/announce
 http://189.18.127.21:6969/announce
 http://189.18.127.57:6969/announce
 http://189.18.162.106:6969/announce
+http://189.18.162.12:6969/announce
 http://189.18.162.54:6969/announce
 http://189.18.163.167:6969/announce
 http://189.18.163.82:6969/announce
@@ -734,6 +735,7 @@ http://93.185.165.29:6969/announce
 http://93.88.129.16/announce
 http://93.92.64.5/announce
 http://94.228.192.98/announce
+http://94.72.140.51:6969/announce
 http://95.107.48.115/announce
 http://95.217.161.135/announce
 http://95.217.167.10:6969/announce
@@ -1970,6 +1972,7 @@ udp://189.18.127.125:6969/announce
 udp://189.18.127.21:6969/announce
 udp://189.18.127.57:6969/announce
 udp://189.18.162.106:6969/announce
+udp://189.18.162.12:6969/announce
 udp://189.18.162.54:6969/announce
 udp://189.18.163.167:6969/announce
 udp://189.18.96.56:6969/announce
@@ -2451,6 +2454,7 @@ udp://94.23.183.33:6969/announce
 udp://94.23.207.177:6969/announce
 udp://94.243.222.100:6969/announce
 udp://94.250.253.220:6969/announce
+udp://94.72.140.51:6969/announce
 udp://95.216.74.39:6969/announce
 udp://95.31.11.224:6969/announce
 udp://96.126.98.54:6969/announce
@@ -2815,6 +2819,7 @@ udp://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://torrentvpn.club:6990/announce
 udp://touhou.kawaiiarts.com:6969/announce
 udp://tr.bangumi.moe:6969/announce
+udp://tr.btube3.com:2010/announce
 udp://tr.cili001.com:8070/announce
 udp://tr.movian.eu:6969/announce
 udp://tr2.cubonegro.lol:6969/announce
