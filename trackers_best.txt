@@ -1,10 +1,7 @@
 http://125.227.79.123/announce
 http://1337.abcvg.info/announce
 http://216.144.239.90:6969/announce
-http://93.88.129.16/announce
 http://bt.beatrice-raws.org/announce
-http://bt.okmp3.ru:2710/announce
-http://bt02.nnm-club.cc:2710/announce
 http://irrenhaus.dyndns.dk/announce
 http://mediaclub.tv/announce
 http://mkfs.ru/announce
@@ -13,6 +10,7 @@ http://opentracker.io/announce
 http://opentracker.xyz/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
+http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://t-backup.213891.xyz/announce
 http://thetracker.org/announce
@@ -47,8 +45,11 @@ https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
 https://tracker.anibt.net/announce
+https://tracker.bigbewbs.online/announce
 https://tracker.bt4g.com/announce
 https://tracker.keepfrds.com/announce
+https://tracker.madtia.cc/announce
+https://tracker.manager.v6.navy/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
