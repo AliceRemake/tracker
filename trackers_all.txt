@@ -34,6 +34,7 @@ http://113.13.6.40:6969/announce
 http://113.13.7.124:6969/announce
 http://113.13.7.149:6969/announce
 http://113.13.7.186:6969/announce
+http://113.13.7.215:6969/announce
 http://113.13.7.90:6969/announce
 http://113.16.152.171:6969/announce
 http://113.16.152.94:6969/announce
@@ -420,6 +421,7 @@ http://200.161.254.131:6969/announce
 http://200.161.254.194:6969/announce
 http://200.161.254.20:6969/announce
 http://200.168.116.107:6969/announce
+http://200.168.116.191:6969/announce
 http://200.168.116.200:6969/announce
 http://200.168.116.61:6969/announce
 http://200.168.117.124:6969/announce
@@ -2089,6 +2091,7 @@ udp://200.161.254.131:6969/announce
 udp://200.161.254.194:6969/announce
 udp://200.161.254.20:6969/announce
 udp://200.168.116.107:6969/announce
+udp://200.168.116.191:6969/announce
 udp://200.168.116.200:6969/announce
 udp://200.168.116.61:6969/announce
 udp://200.168.117.124:6969/announce
@@ -2812,6 +2815,7 @@ udp://seedpeer.net:6969/announce
 udp://serpb.vpsburti.com:6969/announce
 udp://shadowshq.eddie4.nl:6969/announce
 udp://shadowshq.yi.org:6969/announce
+udp://shahidrazi.online:1984/announce
 udp://shizzle.hammetjus.nl:6969/announce
 udp://shogiroom.com:6969/announce
 udp://slicie.icon256.com:8000/announce
@@ -2861,6 +2865,7 @@ udp://torrent.gresille.org:80/announce
 udp://torrent.hificode.in:6969/announce
 udp://torrent.i.ng:6969/announce
 udp://torrent.ubuntu.com:6969/announce
+udp://torrentclub.online:1984/announce
 udp://torrentclub.online:54123/announce
 udp://torrentclub.space:6969/announce
 udp://torrentclub.tech:6969/announce
