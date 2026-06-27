@@ -1,4 +1,5 @@
 http://125.227.79.123/announce
+http://1337.abcvg.info/announce
 http://152.53.194.103:2710/announce
 http://216.144.239.90:6969/announce
 http://37.120.182.83/announce
@@ -9,7 +10,6 @@ http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://connect.swifte.space:2710/announce
-http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
 http://mediaclub.tv/announce
 http://mkfs.ru/announce
@@ -24,6 +24,7 @@ http://thetracker.org/announce
 http://tk.cubicview.site/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
+http://torrent.unix-ag.uni-kl.de/announce
 http://tr.highstar.shop/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
@@ -33,7 +34,6 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.cubicview.site/announce
 http://tracker.cubonegro.org/announce
-http://tracker.dm258.cn:7070/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.merded.xyz:8000/announce
@@ -53,24 +53,24 @@ http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
 http://uatracker.net/announce
-http://www.bitseduce.com/announce
 http://www.wareztorrent.com/announce
+https://1337.abcvg.info/announce
 https://337hhh.xyz/announce
 https://bt.beatrice-raws.org/announce
 https://chihaya-heroku.120181311.xyz/announce
+https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://shahidrazi.online/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
 https://t.audiences.me/announce
 https://t.hdhome.org/announce
+https://torrent.opiums.eu/announce
 https://tr.nyacat.pw/announce
 https://tr2.trkb.ru/announce
 https://tracker.anibt.net/announce
 https://tracker.bt4g.com/announce
 https://tracker.keepfrds.com/announce
-https://tracker.madtia.cc/announce
-https://tracker.manager.v6.navy/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
@@ -173,6 +173,7 @@ udp://149.106.106.25:443/announce
 udp://15.204.205.14:6969/announce
 udp://15.204.56.171:6969/announce
 udp://15.204.57.168:6969/announce
+udp://151.242.104.187:80/announce
 udp://151.243.109.110:6969/announce
 udp://151.243.109.163:6969/announce
 udp://151.80.120.114:2710/announce
