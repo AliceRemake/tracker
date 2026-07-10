@@ -1051,6 +1051,7 @@ http://siwserver.duckdns.org:9900/announce
 http://smurfsoft.com:6969/announce
 http://speedtest.iperson.xyz:6969/announce
 http://sukebei.tracker.wf:8888/announce
+http://supertracker.cc.cd/announce
 http://t-backup.213891.xyz/announce
 http://t.acg.rip:6699/announce
 http://t.al.uy/announce
