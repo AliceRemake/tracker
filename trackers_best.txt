@@ -1,11 +1,6 @@
-http://0d.kebhana.mx:443/announce
 http://125.227.79.123/announce
 http://1337.abcvg.info/announce
 http://152.53.194.103:2710/announce
-http://216.144.239.90:6969/announce
-http://34.66.57.33:1337/announce
-http://34.66.57.33:2710/announce
-http://34.66.57.33:443/announce
 http://37.120.182.83/announce
 http://37.120.182.83:2710/announce
 http://37.60.249.217:6969/announce
@@ -15,19 +10,19 @@ http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
-http://bt1.xxxxbt.cc:6969/announce
 http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
 http://mediaclub.tv/announce
 http://mkfs.ru/announce
 http://nagios.tks.sumy.ua/announce
+http://ns3109441.mypdns.org:6969/announce
 http://open.demonii.si/announce
 http://opentracker.io/announce
 http://opentracker.xyz/announce
+http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
 http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
-http://shubt.net:2710/announce
 http://siambit.com/announce
 http://siambit.org/announce
 http://supertracker.cc.cd/announce
@@ -39,8 +34,6 @@ http://torrent-team.net/announce
 http://torrent.mp3quran.net/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
-http://torrent.unix-ag.uni-kl.de/announce
-http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
 http://tracker-zhuqiy.dgj055.icu/announce
@@ -50,7 +43,6 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.cubicview.site/announce
 http://tracker.cubonegro.org/announce
-http://tracker.dm258.cn:7070/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.merded.xyz:8000/announce
@@ -63,7 +55,6 @@ http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
-http://tracker.xfapi.top:9999/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.top/announce
@@ -85,7 +76,6 @@ https://torrent.opiums.eu/announce
 https://tr.kxmp.cf/announce
 https://tr.nyacat.pw/announce
 https://tr2.trkb.ru/announce
-https://tracker.adgk.net/announce
 https://tracker.bt4g.com/announce
 https://tracker.isbigdick.cc.cd/announce
 https://tracker.keepfrds.com/announce
@@ -369,6 +359,7 @@ udp://189.18.126.49:6969/announce
 udp://189.18.127.125:6969/announce
 udp://189.18.127.21:6969/announce
 udp://189.18.127.57:6969/announce
+udp://189.18.162.102:6969/announce
 udp://189.18.162.106:6969/announce
 udp://189.18.162.12:6969/announce
 udp://189.18.162.54:6969/announce
@@ -1109,7 +1100,6 @@ udp://tracker.bitsearch.to:1337/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.christianbro.pw:6969/announce
-udp://tracker.cloaka.xyz:1337/announce
 udp://tracker.cloudbase.store:1333/announce
 udp://tracker.cn.nyaa.net:6969/announce
 udp://tracker.coppersurfer.tk:6969/announce
