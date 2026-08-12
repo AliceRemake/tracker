@@ -272,6 +272,7 @@ http://177.215.65.40:6969/announce
 http://177.215.67.115:6969/announce
 http://177.215.67.165:6969/announce
 http://177.215.67.185:6969/announce
+http://177.215.67.242:6969/announce
 http://177.27.223.184:6969/announce
 http://177.27.223.186:6969/announce
 http://177.68.44.127:6969/announce
@@ -1975,6 +1976,7 @@ udp://177.215.65.176:6969/announce
 udp://177.215.65.40:6969/announce
 udp://177.215.67.115:6969/announce
 udp://177.215.67.165:6969/announce
+udp://177.215.67.242:6969/announce
 udp://177.27.223.184:6969/announce
 udp://177.27.223.186:6969/announce
 udp://177.32.238.49:6969/announce
@@ -3222,6 +3224,7 @@ udp://u6.trakx.crim.ist:1337/announce
 udp://uabits.today:6990/announce
 udp://udp-tracker.shittyurl.org:6969/announce
 udp://udp.trackarr.org:6969/announce
+udp://udp.tracker.linvk.com:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://udp.yarr.pt:1337/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
