@@ -826,6 +826,7 @@ http://asiatorrent.ddns.net:51413/announce
 http://asiatorrent.giize.com:51413/announce
 http://atrack.pow7.com/announce
 http://baibako.tv/announce
+http://bdremux.club/announce
 http://big-boss-tracker.net/announce
 http://bigfoot1942.sektori.org:6969/announce
 http://bithq.org/announce
@@ -1448,6 +1449,7 @@ https://alpha.torrenttracker.nl/announce
 https://api.ipv4online.uk/announce
 https://atrack.pow7.com/announce
 https://banananetwork.qzz.io/announce
+https://bdremux.club/announce
 https://bittorrent.gongt.net/announce
 https://bittorrent.service.gongt.me:59443/announce
 https://bittracker.nekosunevr.co.uk/announce
