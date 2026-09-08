@@ -9,7 +9,9 @@ http://37.120.182.83:2710/announce
 http://37.60.249.217:6969/announce
 http://52.70.94.249/announce
 http://bt.beatrice-raws.org/announce
+http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
+http://finbytes.org/announce
 http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
 http://mediaclub.tv/announce
@@ -18,6 +20,7 @@ http://nagios.tks.sumy.ua/announce
 http://open.demonii.si/announce
 http://opentracker.xyz/announce
 http://retracker.gorcomnet.ru/announce
+http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://siambit.com/announce
 http://siambit.org/announce
@@ -28,12 +31,15 @@ http://thetracker.org/announce
 http://torrent.mp3quran.net/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
+http://torrent.unix-ag.uni-kl.de/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
 http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.bittorrent.am/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.cubonegro.org/announce
+http://tracker.dm258.cn:7070/announce
+http://tracker.etree.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.merded.xyz:8000/announce
@@ -44,6 +50,7 @@ http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
+http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
@@ -369,6 +376,7 @@ udp://189.18.96.9:6969/announce
 udp://189.18.97.116:6969/announce
 udp://189.18.97.201:6969/announce
 udp://189.18.97.57:6969/announce
+udp://189.18.97.61:6969/announce
 udp://189.69.167.105:6969/announce
 udp://189.69.167.130:6969/announce
 udp://189.69.168.147:6969/announce
@@ -944,7 +952,6 @@ udp://fleira.no:6969/announce
 udp://fosstorrents.com:6969/announce
 udp://freedomalternative.com:6969/announce
 udp://ftp.pet:2710/announce
-udp://globalwave.no-ip.org:6969/announce
 udp://glotorrents.pw:6969/announce
 udp://hificode.in:6969/announce
 udp://home.kray.pw:6969/announce
