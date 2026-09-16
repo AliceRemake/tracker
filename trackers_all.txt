@@ -1294,6 +1294,7 @@ http://tracker.tiny-vps.com:6969/announce
 http://tracker.torrent.to:2710/announce
 http://tracker.torrentbytes.net/announce
 http://tracker.torrentino.com/announce
+http://tracker.torrents.observer/announce
 http://tracker.torrentuje.me:2710/announce
 http://tracker.torrentyorg.pl/announce
 http://tracker.trackerfix.com/announce
