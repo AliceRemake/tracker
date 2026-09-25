@@ -2799,6 +2799,7 @@ udp://jvavav.com:6969/announce
 udp://keke.re:6969/announce
 udp://kiryuu-test.mywaifu.best:6969/announce
 udp://kokodayo.site:6969/announce
+udp://kolankoalastree.newtrackon.co.nz:1337/announce
 udp://kolanopentracker.airdns.org:3392/announce
 udp://kristof.bartanet.cz:6969/announce
 udp://laestrygonian.ooguy.com:9001/announce
